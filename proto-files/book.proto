@@ -1,0 +1,9 @@
+// book.proto
+syntax="proto3";
+
+package greetings;
+
+message Book {
+  string name = 1;
+  int32 isbn = 2;
+}

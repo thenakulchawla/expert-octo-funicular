@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"log"
 	"github.com/thenakulchawla/expert-octo-funicular/greetings"
+	"log"
 )
 
 func main() {
@@ -16,6 +16,3 @@ func main() {
 	}
 	fmt.Println(message)
 }
-
-
-
